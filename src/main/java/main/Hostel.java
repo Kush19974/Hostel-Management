@@ -24,6 +24,7 @@ public class Hostel{
 	           }
            }catch(Exception e){
                //print
+        	   
                System.out.println(e);
                
            }finally{
